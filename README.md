@@ -24,7 +24,7 @@ Most of what you'll find here runs entirely **inside your browser**. No accounts
 If something here is useful to you, or teaches you something, or makes a small part of your day easier — I'm glad. That's the whole reason I put it online.
 
 ---
-
+<!-- 
 ## 📸 A glimpse
 
 <div align="center">
@@ -50,7 +50,7 @@ If something here is useful to you, or teaches you something, or makes a small p
 </div>
 
 ---
-
+-->
 ## ✨ A few things I've built
 
 Each one is its own small world — you can explore them by following the links.

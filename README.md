@@ -28,25 +28,25 @@ If something here is useful to you, or teaches you something, or makes a small p
 ## 📸 A glimpse
 
 <div align="center">
-  <img src="https://github.com/mohamed005cheikh-rgb/mohamed005cheikh-rgb/raw/main/images/Sc1.png" alt="A selection of my work" width="100%" />
+  <img src="https://github.com/MC-MC88/MC-MC88/raw/main/images/Sc1.png" alt="A selection of my work" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github.com/mohamed005cheikh-rgb/mohamed005cheikh-rgb/raw/main/images/Sc2.png" alt="More of the tools I've built" width="100%" />
+  <img src="https://github.com/MC-MC88/MC-MC88/raw/main/images/Sc2.png" alt="More of the tools I've built" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github.com/mohamed005cheikh-rgb/mohamed005cheikh-rgb/raw/main/images/Sr1.gif" alt="Browsing through a project" width="100%" />
+  <img src="https://github.com/MC-MC88/MC-MC88/raw/main/images/Sr1.gif" alt="Browsing through a project" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github.com/mohamed005cheikh-rgb/mohamed005cheikh-rgb/raw/main/images/Sr2.gif" alt="A tool in action" width="100%" />
+  <img src="https://github.com/MC-MC88/MC-MC88/raw/main/images/Sr2.gif" alt="A tool in action" width="100%" />
 </div>
 
 ---
@@ -57,18 +57,18 @@ Each one is its own small world — you can explore them by following the links.
 
 | | Project | What it does |
 |:--|:--|:--|
-| 💊 | [**PHARMA-MC88**](https://mohamed005cheikh-rgb.github.io/PHARMA-MC88/) | A pharmacy interface — browsing, ordering, doing what a pharmacy site should. |
-| 🛍️ | [**SHOP-MC88**](https://mohamed005cheikh-rgb.github.io/SHOP-MC88/) | A small online store — clean catalog, simple cart. |
-| 🏥 | [**cabinet-isi-2**](https://mohamed005cheikh-rgb.github.io/cabinet-isi-2/) | A medical cabinet site — specialties, appointments, clarity. |
-| 🍽️ | [**RESTAU-MC88**](https://mohamed005cheikh-rgb.github.io/RESTAU-MC88/) | A restaurant menu you can order from. |
-| 🏭 | [**DATA-MC88**](https://mohamed005cheikh-rgb.github.io/DATA-MC88/) | A generator for realistic test data. |
-| 📄 | [**DOCTOOLS-MC88**](https://mohamed005cheikh-rgb.github.io/DOCTOOLS-MC88/) | A small workshop for PDFs and documents. |
-| 🌐 | [**SM-MC88**](https://mohamed005cheikh-rgb.github.io/SM-MC88/) | A subnetting calculator — for people who work with networks. |
-| 📱 | [**NTLAS-MC88**](https://mohamed005cheikh-rgb.github.io/NTLAS-MC88/) | A QR code generator — Wi-Fi, links, contacts. |
-| 🌙 | [**MOON-MC88**](https://mohamed005cheikh-rgb.github.io/MOON-MC88/) | A quiet little page about the moon. |
-| 🕰️ | [**CLOCK-MC88**](https://mohamed005cheikh-rgb.github.io/CLOCK-MC88/) | A clock that follows the sun. |
+| 💊 | [**PHARMA-MC88**](https://MC-MC88.github.io/PHARMA-MC88/) | A pharmacy interface — browsing, ordering, doing what a pharmacy site should. |
+| 🛍️ | [**SHOP-MC88**](https://MC-MC88.github.io/SHOP-MC88/) | A small online store — clean catalog, simple cart. |
+| 🏥 | [**cabinet-isi-2**](https://MC-MC88.github.io/cabinet-isi-2/) | A medical cabinet site — specialties, appointments, clarity. |
+| 🍽️ | [**RESTAU-MC88**](https://MC-MC88.github.io/RESTAU-MC88/) | A restaurant menu you can order from. |
+| 🏭 | [**DATA-MC88**](https://MC-MC88.github.io/DATA-MC88/) | A generator for realistic test data. |
+| 📄 | [**DOCTOOLS-MC88**](https://MC-MC88.github.io/DOCTOOLS-MC88/) | A small workshop for PDFs and documents. |
+| 🌐 | [**SM-MC88**](https://MC-MC88.github.io/SM-MC88/) | A subnetting calculator — for people who work with networks. |
+| 📱 | [**NTLAS-MC88**](https://MC-MC88.github.io/NTLAS-MC88/) | A QR code generator — Wi-Fi, links, contacts. |
+| 🌙 | [**MOON-MC88**](https://MC-MC88.github.io/MOON-MC88/) | A quiet little page about the moon. |
+| 🕰️ | [**CLOCK-MC88**](https://MC-MC88.github.io/CLOCK-MC88/) | A clock that follows the sun. |
 
-→ And a few more in the [**repositories tab**](https://github.com/mohamed005cheikh-rgb?tab=repositories).
+→ And a few more in the [**repositories tab**](https://github.com/MC-MC88?tab=repositories).
 
 ---
 
@@ -110,4 +110,3 @@ I'm open to **internships**, **freelance work**, and **collaborations** — espe
 <sub>© 2026 · MC88 · Mohamed ould Cheikh</sub>
 
 </div>
-

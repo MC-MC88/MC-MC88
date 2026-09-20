@@ -110,3 +110,4 @@ I'm open to **internships**, **freelance work**, and **collaborations** — espe
 <sub>© 2026 · MC88 · Mohamed ould Cheikh</sub>
 
 </div>
+

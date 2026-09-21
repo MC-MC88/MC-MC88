@@ -101,7 +101,7 @@ I'm open to **internships**, **freelance work**, and **collaborations** — espe
 
 ### 🗂️ Scan to explore everything
 
-<img src="./qr.jpg" alt="QR code — open all repositories" width="180" />
+<img src="qr.jpg" alt="QR code — open all repositories" width="180" />
 
 <sub>Point your camera at the code, and you'll land on the full list of repositories.</sub>
 

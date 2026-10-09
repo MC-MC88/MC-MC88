@@ -4,7 +4,7 @@
 <img src="sky-header.svg" alt="Sky and Clouds" width="100%" />
 
 <!-- Main Flame Artwork -->
-<img src="flame-header.svg" alt="Mohamed Cheikh" width="100%" />
+<!--<img src="flame-header.svg" alt="Mohamed Cheikh" width="100%" />-->
 
 <br />
 

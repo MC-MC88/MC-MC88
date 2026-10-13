@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" preserveAspectRatio="none">
   <defs>
-    <!-- ==== ألوان البحر مستوحاة من السماء ==== -->
+    
     <linearGradient id="seaBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#1d3a5c"/> <!-- نفس لون أفق السماء -->
-      <stop offset="100%" stop-color="#02040b"/> <!-- نفس لون قمة السماء -->
+      <stop offset="0%" stop-color="#1d3a5c"/> 
+      <stop offset="100%" stop-color="#02040b"/> 
     </linearGradient>
     
     <linearGradient id="wave1" x1="0" y1="0" x2="0" y2="1">
@@ -21,8 +21,7 @@
       <stop offset="100%" stop-color="#050d1f"/>
     </linearGradient>
 
-    <!-- ==== انعكاس ضوء القمر على الماء ==== -->
-    <!-- القمر يقع عند x=950، لذا نضع التدرج في نفس المكان -->
+  
     <linearGradient id="moonReflect" x1="0.79" y1="0" x2="0.79" y2="1">
       <stop offset="0%" stop-color="#eaf2ff" stop-opacity="0.35"/>
       <stop offset="25%" stop-color="#a9c2ee" stop-opacity="0.15"/>
@@ -30,23 +29,23 @@
       <stop offset="100%" stop-color="#6d86b8" stop-opacity="0"/>
     </linearGradient>
 
-    <!-- توهج إضافي للماء تحت القمر مباشرة -->
+    
     <radialGradient id="moonGlow" cx="0.79" cy="0" r="0.5">
       <stop offset="0%" stop-color="#eaf2ff" stop-opacity="0.4"/>
       <stop offset="100%" stop-color="#eaf2ff" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
-  <!-- خلفية البحر -->
+ 
   <rect width="100%" height="100%" fill="url(#seaBg)"/>
 
-  <!-- طبقة انعكاس القمر الأساسية -->
+  
   <rect width="100%" height="100%" fill="url(#moonReflect)"/>
   
-  <!-- توهج القمر الإضافي على سطح الماء -->
+ 
   <ellipse cx="950" cy="10" rx="150" ry="30" fill="url(#moonGlow)"/>
 
-  <!-- الموجة الخلفية -->
+  
   <path fill="url(#wave1)" opacity="0.8">
     <animate attributeName="d"
       values="M0,100 Q150,70 300,100 T600,100 T900,100 T1200,100 L1200,200 L0,200 Z;
@@ -55,7 +54,7 @@
       dur="8s" repeatCount="indefinite"/>
   </path>
 
-  <!-- الموجة الوسطى -->
+
   <path fill="url(#wave2)" opacity="0.9">
     <animate attributeName="d"
       values="M0,120 Q200,90 400,120 T800,120 T1200,120 L1200,200 L0,200 Z;
@@ -64,7 +63,7 @@
       dur="6s" repeatCount="indefinite"/>
   </path>
 
-  <!-- الموجة الأمامية -->
+ 
   <path fill="url(#wave3)" opacity="0.95">
     <animate attributeName="d"
       values="M0,140 Q250,110 500,140 T1000,140 T1200,140 L1200,200 L0,200 Z;
@@ -73,9 +72,9 @@
       dur="4s" repeatCount="indefinite"/>
   </path>
 
-  <!-- ==== لمعان الماء (انعكاس ضوء القمر على قمم الموجات) ==== -->
+ 
   <g opacity="0.6">
-    <!-- خطوط أفقية صغيرة تحاكي انعكاس الضوء على الماء -->
+  
     <ellipse cx="950" cy="105" rx="40" ry="2" fill="#eaf2ff" opacity="0.4">
       <animate attributeName="opacity" values="0.1;0.5;0.1" dur="3s" repeatCount="indefinite"/>
     </ellipse>
